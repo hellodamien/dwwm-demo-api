@@ -5,3 +5,5 @@ class SchoolList extends React.Component {
 
     }
 }
+
+export default SchoolList;
